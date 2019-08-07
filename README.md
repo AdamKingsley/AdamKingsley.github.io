@@ -8,7 +8,7 @@
 
 更多原生功能请关注原创作者
 
-[https://github.com/GitHub-Laziji/vblog](https://github.com/GitHub-Laziji/vblog)
+[https://github.com/GitHub-Laziji/vblog][1]
 
 
 ## 快速使用
@@ -20,7 +20,7 @@
 类似演示地址其中 `AdamKingsley` 为我的用户名
 
 
-现在 ```https://你的用户名.github.io``` 就是你的个人博客了,例如[https://adamkingsley.github.io][1]
+现在 ```https://你的用户名.github.io``` 就是你的个人博客了,例如[https://adamkingsley.github.io][2]
 
 
 
@@ -29,3 +29,4 @@
 在 ```github > settings > Developer settings > Personal access tokens```  勾选```gist``` 和 ```repo```权限 获取```Token```
 
   [1]: https://github.com/GitHub-Laziji/vblog
+  [2]: https://adamkingsley.github.io
